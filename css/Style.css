@@ -378,6 +378,7 @@ background-color: white;
 }
 
 /*Portfolio Section*/
+
 .portfolio {
     background: #f9f9f9;
 }
@@ -884,7 +885,38 @@ overflow:hidden;
     margin: 0 5%;
 }
 
+
 /*contact Section*/
+
+.Get-items{
+    overflow: hidden;
+
+}
+
+.get-item {
+    width: 30%;
+    float:left;
+    text-align: center;
+}
+
+.get-item .icon{
+    color: #6195ff;
+    margin-bottom: 15px;
+
+}
+
+.get-item .get-item-title{
+    font-weight: bold;
+    font-size:27px;
+    color:black;
+    margin: 10px;
+}
+
+.get-item .get-item-num {
+  color: #999;
+}
+
+
 
 /*footer-section*/
 
@@ -931,3 +963,4 @@ overflow:hidden;
 
     background: #f9f9f9f9;
 }
+
